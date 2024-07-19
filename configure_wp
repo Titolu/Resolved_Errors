@@ -1,0 +1,6 @@
+NOTE:
+For not entering FTP username and password each time installing a theme/plugin we can configure WordPress to use it directly by adding
+
+define('FS_METHOD','direct');
+
+to the wp-config.php file.
